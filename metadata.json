@@ -1,0 +1,6 @@
+{
+  "name": "Starbucks Кав'ярня",
+  "description": "Офіційний сайт нової кав'ярні Starbucks в Україні: гармонійні авторські напої, знижки та затишна атмосфера.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
